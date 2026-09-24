@@ -35,4 +35,5 @@ every run reproducible.
 
 ## Citation
 
-Placeholder --- replace with the archived DOI citation at submission.
+- Dataset (node states, interaction edges, animations, audit artifacts): https://doi.org/10.5281/zenodo.22934801
+- Code release v1.0.0: https://doi.org/10.5281/zenodo.22934803
