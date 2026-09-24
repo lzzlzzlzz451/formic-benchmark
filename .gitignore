@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# generated data lives outside this repo and is archived on Zenodo
+scenarios/
+data/

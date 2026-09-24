@@ -1,0 +1,5 @@
+scenario,option_major,count_major,share_major,option_minor,count_minor,share_minor
+wall_with_door,door,1246,0.834,bottom_gap,248,0.166
+central_vertical_wall,bottom_endaround,1581,0.976,top_endaround,39,0.024
+ring_with_gaps,pillar_squeezes,4576,0.798,designed_gaps,1161,0.202
+side_food_detour,below,2785,0.833,above,557,0.167

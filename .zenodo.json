@@ -1,0 +1,24 @@
+{
+  "title": "FORMIC: a configurable ant-foraging simulator and dynamic interaction-network benchmark",
+  "description": "<p>Code for the FORMIC benchmark: a configurable ant-foraging simulator with a unified closest-surface obstacle interface, a 16-scenario suite, per-frame interaction-graph extraction, audit scripts, and trajectory-prediction baselines (persistence, constant velocity, ST-GNN).</p><p>The full dataset (1.6 GB of node states and interaction edges) is archived separately on Zenodo.</p>",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "PLEASE-EDIT, Author-One",
+      "affiliation": "PLEASE-EDIT"
+    },
+    {
+      "name": "PLEASE-EDIT, Author-Two",
+      "affiliation": "PLEASE-EDIT"
+    }
+  ],
+  "keywords": [
+    "swarm intelligence",
+    "ant colony",
+    "dynamic interaction networks",
+    "temporal graphs",
+    "trajectory prediction",
+    "benchmark",
+    "simulation"
+  ]
+}
